@@ -23,7 +23,7 @@ Although most referrals are scheduled quickly, a small subset experience extende
 
 ### 3.1 Dataset Used
 
-This project uses a [**synthetic electronic health record (EHR) dataset generated with Synthea](https://synthea.mitre.org/downloads),** a widely used open-source patient data simulator. The dataset includes longitudinal patient, encounter, procedure, provider, and claims-related data designed to reflect realistic healthcare workflows while containing no real patient information.
+This project uses a [synthetic electronic health record (EHR) dataset generated with Synthea](https://synthea.mitre.org/downloads), a widely used open-source patient data simulator. The dataset includes longitudinal patient, encounter, procedure, provider, and claims-related data designed to reflect realistic healthcare workflows while containing no real patient information.
 
 ### 3.2 Data Modeling and Preparation
 
