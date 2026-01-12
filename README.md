@@ -119,12 +119,9 @@ This analysis demonstrated that **even in a high-performing referral workflow**,
 
 Downstream analysis shows that these delayed referrals are **less likely to generate follow-up claims and tend to experience longer time to utilization**, indicating that scheduling delays extend beyond access metrics and can translate into lost or delayed follow-up care.
 
-<aside>
-⚠️
 
 ***Assuming there are 100,00 referrals/year, 2.65% are at risk, which translates to 2,650 patients/year. If even 50% of those could be recovered, that would result into ~1,300 additional timely visits, along with corresponding increases in downstream utilization and claims activity.***
 
-</aside>
 
 Therefore, these long-tail delays represent the greatest opportunity for improvement, as they are most likely to impact patient experience, access metrics, downstream utilization, and manual follow-up workload.
 
